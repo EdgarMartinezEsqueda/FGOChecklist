@@ -1366,6 +1366,36 @@
 				"stype": 0,
 				"img": false,
 				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/c/cc/S370A1Icon.webp"
+			},
+			{
+				"id": "5-1D",
+				"name": "Tezcatlipoca",
+				"class": "assassin",
+				"game_id": "371",
+				"maxcopy": 5,
+				"stype": 3,
+				"img": false,
+				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/c/ce/S371A1Icon.webp"
+			},
+			{
+				"id": "5-1E",
+				"name": "Kukulkan",
+				"class": "foreigner",
+				"game_id": "373",
+				"maxcopy": 5,
+				"stype": 3,
+				"img": false,
+				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/5/51/S373A1Icon.webp"
+			},
+			{
+				"id": "5-1F",
+				"name": "Popess Johanna",
+				"class": "ruler",
+				"game_id": "373",
+				"maxcopy": 5,
+				"stype": 3,
+				"img": false,
+				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/f/f5/S374A1Icon.webp"
 			}
 		]
 	},
@@ -2886,6 +2916,16 @@
 				"stype": 4,
 				"img": true,
 				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/7/73/S367A1Icon.webp"
+			},
+			{
+				"id": "4-1S",
+				"name": "Tlaloc",
+				"class": "pretender",
+				"game_id": "367",
+				"maxcopy": 5,
+				"stype": 0,
+				"img": true,
+				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/c/c0/S372A1Icon.webp"
 			}
 		]
 	},
