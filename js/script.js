@@ -2,13 +2,13 @@
 import servants from "../lib/servants.json" assert {type: 'json'};
 // Total current FGO servants
 const totalServants = {
-    '★5' : 139,  
-    '★4' : 152,   
+    '★5' : 143,  
+    '★4' : 154,   
     '★3' : 48,    
     '★2' : 15,   
     '★1' : 12,    
     '★0' : 1,
-    'All' : 360   
+    'All' : 373   
 };
 // Total own FGO servants
 let nServants = {
@@ -23,7 +23,6 @@ let nServants = {
 // Load servants data and display them
 (() => {
     servants.forEach( rarity=> {
-        //console.log(rarity.list.length);
         let newDiv = document.createElement("div");
         let data =
         `<div class="cntTablaServant" id="Tabla_${rarity.list_id}">

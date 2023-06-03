@@ -4,7 +4,7 @@
 		"list_name": "★5",
 		"list_element": "ssrBox",
 		"list_iconpath": "",
-		"class_available": ["saber","archer","lancer","rider","caster","assassin","berserker","ruler","avenger","mooncancer","alterego","foreigner","pretender"],
+		"class_available": ["saber","archer","lancer","rider","caster","assassin","berserker","ruler","avenger","mooncancer","alterego","foreigner","pretender","beast"],
 		"disable": false,
 		"list": [
 			{
@@ -1185,7 +1185,7 @@
 				"maxcopy": 5,
 				"stype": 0,
 				"img": true,
-				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/7/72/S331A1Icon.png"
+				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/a/ac/S331A1Icon.webp"
 			},
 			{
 				"id": "5-0v",
@@ -1195,7 +1195,7 @@
 				"maxcopy": 5,
 				"stype": 3,
 				"img": true,
-				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/2/25/S334A1Icon.png"
+				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/5/55/S334A1Icon.webp"
 			},
 			{
 				"id": "5-0w",
@@ -1205,7 +1205,7 @@
 				"maxcopy": 5,
 				"stype": 3,
 				"img": true,
-				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/3/34/S336A1Icon.png"
+				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/e/ef/S336A1Icon.webp"
 			},
 			{
 				"id": "5-0x",
@@ -1215,7 +1215,7 @@
 				"maxcopy": 5,
 				"stype": 3,
 				"img": true,
-				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/f/fe/S337A1Icon.png"
+				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/9/91/S337A1Icon.webp"
 			},
 			{
 				"id": "5-0y",
@@ -1225,7 +1225,7 @@
 				"maxcopy": 5,
 				"stype": 3,
 				"img": true,
-				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/a/ad/S339A1Icon.png"
+				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/8/89/S339A1Icon.webp"
 			},
 			{
 				"id": "5-0z",
@@ -1235,7 +1235,7 @@
 				"maxcopy": 5,
 				"stype": 3,
 				"img": true,
-				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/3/34/S342A1Icon.png"
+				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/a/a6/S342A1Icon.webp"
 			},
 			{
 				"id": "5-10",
@@ -1255,7 +1255,7 @@
 				"maxcopy": 5,
 				"stype": 3,
 				"img": true,
-				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/b/b1/S346A1Icon.png"
+				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/f/fe/S346A1Icon.webp"
 			},
 			{
 				"id": "5-12",
@@ -1265,7 +1265,7 @@
 				"maxcopy": 5,
 				"stype": 3,
 				"img": true,
-				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/6/68/S349A1Icon.png"
+				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/7/7a/S349A1Icon.webp"
 			},
 			{
 				"id": "5-13",
@@ -1275,7 +1275,7 @@
 				"maxcopy": 5,
 				"stype": 0,
 				"img": true,
-				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/2/20/S350A1Icon.png"
+				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/f/fb/S350A1Icon.webp"
 			},
 			{
 				"id": "5-14",
@@ -1285,7 +1285,7 @@
 				"maxcopy": 5,
 				"stype": 3,
 				"img": true,
-				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/b/b2/S351A1Icon.png"
+				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/a/a9/S351A1Icon.webp"
 			},
 			{
 				"id": "5-15",
@@ -1325,7 +1325,7 @@
 				"maxcopy": 5,
 				"stype": 3,
 				"img": false,
-				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/c/c0/S362A1Icon.png"
+				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/c/cd/S362A1Icon.webp"
 			},
 			{
 				"id": "5-19",
@@ -1391,11 +1391,51 @@
 				"id": "5-1F",
 				"name": "Popess Johanna",
 				"class": "ruler",
-				"game_id": "373",
+				"game_id": "374",
 				"maxcopy": 5,
 				"stype": 3,
 				"img": false,
 				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/f/f5/S374A1Icon.webp"
+			},
+			{
+				"id": "5-1G",
+				"name": "Takasugi Shinsaku",
+				"class": "archer",
+				"game_id": "375",
+				"maxcopy": 5,
+				"stype": 3,
+				"img": false,
+				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/5/54/S375A1Icon.webp"
+			},
+			{
+				"id": "5-1H",
+				"name": "Larva/Tiamat",
+				"class": "alterego",
+				"game_id": "376",
+				"maxcopy": 5,
+				"stype": 3,
+				"img": false,
+				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/d/d9/S376A1Icon.webp"
+			},
+			{
+				"id": "5-1I",
+				"name": "Sodom's Beast/Draco",
+				"class": "beast",
+				"game_id": "377",
+				"maxcopy": 5,
+				"stype": 3,
+				"img": false,
+				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/8/8a/S377A1Icon.webp"
+			},
+			{
+				"id": "5-1J",
+				"name": "Kashin Koji",
+				"class": "assassin",
+				"game_id": "380",
+				"maxcopy": 5,
+				"stype": 0,
+				"img": false,
+				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/7/74/S380A1Icon.webp"
 			}
 		]
 	},
@@ -2745,7 +2785,7 @@
 				"maxcopy": 5,
 				"stype": 4,
 				"img": true,
-				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/d/d9/S330A1Icon.png"
+				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/b/bc/S330A1Icon.webp"
 			},
 			{
 				"id": "4-1B",
@@ -2755,7 +2795,7 @@
 				"maxcopy": 5,
 				"stype": 0,
 				"img": true,
-				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/b/b1/S332A1Icon.png"
+				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/6/68/S332A1Icon.webp"
 			},
 			{
 				"id": "4-1C",
@@ -2765,7 +2805,7 @@
 				"maxcopy": 5,
 				"stype": 0,
 				"img": true,
-				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/9/96/S335A1Icon.png"
+				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/d/df/S335A1Icon.webp"
 			},
 			{
 				"id": "4-1D",
@@ -2775,7 +2815,7 @@
 				"maxcopy": 5,
 				"stype": 4,
 				"img": true,
-				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/2/2a/S338A1Icon.png"
+				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/f/fa/S338A1Icon.webp"
 			},
 			{
 				"id": "4-1E",
@@ -2785,7 +2825,7 @@
 				"maxcopy": 5,
 				"stype": 3,
 				"img": true,
-				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/d/d1/S340A1Icon.png"
+				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/6/60/S340A1Icon.webp"
 			},
 			{
 				"id": "4-1F",
@@ -2795,7 +2835,7 @@
 				"maxcopy": 5,
 				"stype": 0,
 				"img": true,
-				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/e/e0/S344A1Icon.png"
+				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/c/c9/S344A1Icon.webp"
 			},
 			{
 				"id": "4-1G",
@@ -2805,7 +2845,7 @@
 				"maxcopy": 5,
 				"stype": 2,
 				"img": true,
-				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/4/4b/S345A1Icon.png"
+				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/4/4c/S345A1Icon.webp"
 			},
 			{
 				"id": "4-1H",
@@ -2815,7 +2855,7 @@
 				"maxcopy": 5,
 				"stype": 2,
 				"img": true,
-				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/6/6b/S347A1Icon.png"
+				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/3/3f/S347A1Icon.webp"
 			},
 			{
 				"id": "4-1I",
@@ -2825,7 +2865,7 @@
 				"maxcopy": 5,
 				"stype": 3,
 				"img": true,
-				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/d/db/S354A1Icon.png"
+				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/2/2b/S354A1Icon.webp"
 			},
 			{
 				"id": "4-1J",
@@ -2835,7 +2875,7 @@
 				"maxcopy": 5,
 				"stype": 3,
 				"img": true,
-				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/9/9c/S356A1Icon.png"
+				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/a/a4/S356A1Icon.webp"
 			},
 			{
 				"id": "4-1K",
@@ -2855,7 +2895,7 @@
 				"maxcopy": 5,
 				"stype": 4,
 				"img": true,
-				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/b/b3/S359A1Icon.png"
+				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/f/fe/S359A1Icon.webp"
 			},
 			{
 				"id": "4-1M",
@@ -2865,7 +2905,7 @@
 				"maxcopy": 5,
 				"stype": 4,
 				"img": true,
-				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/5/51/S360A1Icon.png"
+				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/6/66/S360A1Icon.webp"
 			},
 			{
 				"id": "4-1N",
@@ -2875,7 +2915,7 @@
 				"maxcopy": 5,
 				"stype": 4,
 				"img": true,
-				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/c/c1/S361A1Icon.png"
+				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/1/17/S361A1Icon.webp"
 			},
 			{
 				"id": "4-1O",
@@ -2885,7 +2925,7 @@
 				"maxcopy": 5,
 				"stype": 3,
 				"img": true,
-				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/b/b6/S363A1Icon.png"
+				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/6/6b/S363A1Icon.webp"
 			},
 			{
 				"id": "4-1P",
@@ -2895,7 +2935,7 @@
 				"maxcopy": 5,
 				"stype": 4,
 				"img": true,
-				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/2/24/S364A1Icon.png"
+				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/6/6f/S364A1Icon.webp"
 			},
 			{
 				"id": "4-1Q",
@@ -2926,6 +2966,26 @@
 				"stype": 0,
 				"img": true,
 				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/c/c0/S372A1Icon.webp"
+			},
+			{
+				"id": "4-1T",
+				"name": "Locusta",
+				"class": "assassin",
+				"game_id": "378",
+				"maxcopy": 5,
+				"stype": 3,
+				"img": true,
+				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/8/81/S378A1Icon.webp"
+			},
+			{
+				"id": "4-1U",
+				"name": "Sétanta",
+				"class": "saber",
+				"game_id": "379",
+				"maxcopy": 5,
+				"stype": 4,
+				"img": true,
+				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/c/c4/S379A1Icon.webp"
 			}
 		]
 	},
@@ -3405,7 +3465,7 @@
 				"maxcopy": 5,
 				"stype": 0,
 				"img": true,
-				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/1/12/S348A1Icon.png"
+				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/7/7e/S348A1Icon.webp"
 			},
 			{
 				"id": "3-k",
@@ -3705,7 +3765,7 @@
 				"maxcopy": 5,
 				"stype": 3,
 				"img": true,
-				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/6/66/S341A1Icon.png"
+				"imgpath": "https://static.wikia.nocookie.net/fategrandorder/images/4/47/S341A1Icon.webp"
 			}
 		]
 	},
