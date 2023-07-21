@@ -3602,16 +3602,6 @@
 		"copies":0
 	},
 	{
-		"game_id":"367",
-		"name":"Tlaloc",
-		"class":"pretender",
-		"rarity":"4",
-		"maxcopy":5,
-		"stype":0,
-		"imgpath":"https://static.wikia.nocookie.net/fategrandorder/images/c/c0/S372A1Icon.webp",
-		"copies":0
-	},
-	{
 		"game_id":"368",
 		"name":"Britomart",
 		"class":"lancer",
@@ -3649,6 +3639,16 @@
 		"maxcopy":5,
 		"stype":3,
 		"imgpath":"https://static.wikia.nocookie.net/fategrandorder/images/c/ce/S371A1Icon.webp",
+		"copies":0
+	},
+	{
+		"game_id":"372",
+		"name":"Tlaloc",
+		"class":"pretender",
+		"rarity":"4",
+		"maxcopy":5,
+		"stype":0,
+		"imgpath":"https://static.wikia.nocookie.net/fategrandorder/images/c/c0/S372A1Icon.webp",
 		"copies":0
 	},
 	{
