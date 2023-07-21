@@ -20,7 +20,8 @@
     <!-- Screenshots-->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
     <!-- Custom JS-->
-    <script defer type="module" src="js/script.js"></script>
+    <script src="./js/script.js"></script>
+    <script defer src="./js/createTable.js"></script>
 </head>
 
 <body>
@@ -36,6 +37,22 @@
     </div>
     <!-- Mostrar los servants separados por rareza -->
     <div class="cntPrincipal">
+        <div class="cntOptions">
+            <div class="cntSort">
+                <h3>Ordenar por:</h3>
+                <select class="form-select" id="sortedBy" aria-label="Elige una opción" onchange="createTable()">
+                    <option selected value="rarity">Rareza</option>
+                    <option value="id">ID</option>
+                    <option value="class">Clase</option>
+                  </select>
+            </div>
+            <div class="cntBtnReset">
+                <button type="button" class="btn btn-outline-danger btn-sm" title="Reset"><span class="material-symbols-outlined" onclick="resetAll()">
+                    restart_alt
+                    </span>
+                </button>
+            </div>
+        </div>
         <div id="cntAllServants">
             <h2>Servants</h2>
             <div class="cntTablasInfo">
@@ -84,8 +101,9 @@
                 </table>
             </div>
         </div>
+        
         <div class="cntBotonFinal" title="Descargar todo">
-            <button class="btn btn-primary" type="button" id="guardarTodo">
+            <button class="btn btn-primary" type="button" id="guardarTodo" onclick="takeScreenshot()">
                 <span class="material-symbols-outlined">
                 system_update_alt
                 </span>

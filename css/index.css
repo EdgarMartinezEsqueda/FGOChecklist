@@ -52,27 +52,27 @@
 }
 
 /* Colors for banner tables */
-thead#ssr {
+thead#5⭐ {
     background-color: #FFD700;
 }
 
-thead#sr {
+thead#4⭐ {
     background-color: #f1bf0c;
 }
 
-thead#rare {
+thead#3⭐ {
     background-color: #b2b2b2;
 }
 
-thead#uncommon, thead#common, thead#none {
+thead#2⭐, thead#common, thead#none {
     color: white;
 }
 
-thead#uncommon {
+thead#1⭐ {
     background-color: #8f8166;
 }
 
-thead#common {
+thead#0⭐ {
     background-color: #6F4E37;
 }
 
@@ -159,4 +159,19 @@ footer p{
     position: relative;
     top: -77px;
     right: -28px;
+}
+
+.cntOptions{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 0;
+}
+
+.cntSort{
+    width: 200px;
+}
+
+.cntBtnReset{
+    width: 50px;
 }
