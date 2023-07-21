@@ -52,31 +52,27 @@
 }
 
 /* Colors for banner tables */
-thead#5⭐ {
+thead[id^="5"] {
     background-color: #FFD700;
 }
 
-thead#4⭐ {
+thead[id^="4"] {
     background-color: #f1bf0c;
 }
 
-thead#3⭐ {
+thead[id^="3"] {
     background-color: #b2b2b2;
 }
 
-thead#2⭐, thead#common, thead#none {
-    color: white;
-}
-
-thead#1⭐ {
+thead[id^="2"] {
     background-color: #8f8166;
 }
 
-thead#0⭐ {
+thead[id^="1"] {
     background-color: #6F4E37;
 }
 
-thead#none {
+thead[id^="0"] {
     background-color: #212529;
 }
 
@@ -123,8 +119,9 @@ button.btn.btn-outline-dark.guardar.material-symbols-outlined {
     padding: 0;
 }
 
-thead#uncommon .material-symbols-outlined, thead#common .material-symbols-outlined, thead#none .material-symbols-outlined{
+thead[id$="⭐"]{
     color: white !important;
+    text-shadow: 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black;
 }
 
 .cntBotonFinal {
