@@ -84,8 +84,6 @@ function saveOnBrowser(){
 }
 
 function resetAll(){
-    servantsData.forEach( s => s["copies"] = 0 );
-    saveOnBrowser();
-    createTable("rarity");
-    updateFields();
+    localStorage.clear();
+    location.reload(true);
 }
