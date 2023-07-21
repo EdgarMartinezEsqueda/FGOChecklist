@@ -1,5 +1,5 @@
 {
-	"version": "2.0",
+	"version": "2.0.1",
 	"data": [
 	{
 		"game_id":"1",
@@ -3478,7 +3478,7 @@
 		"rarity":"5",
 		"maxcopy":5,
 		"stype":3,
-		"imgpath":"https://static.wikia.nocookie.net/fategrandorder/images/1/11/S355A1Icon.png",
+		"imgpath":"https://static.wikia.nocookie.net/fategrandorder/images/4/4d/S355A1Icon.webp",
 		"copies":0
 	},
 	{
