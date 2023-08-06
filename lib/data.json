@@ -1,5 +1,5 @@
 {
-	"version": "2.0.4",
+	"version": "2.0.5",
 	"data": [
 	{
 		"game_id":"1",
@@ -3769,6 +3769,16 @@
 		"maxcopy":5,
 		"stype":3,
 		"imgpath":"https://static.wikia.nocookie.net/fategrandorder/images/2/26/S384A1Icon.webp",
+		"copies":0
+	},
+	{
+		"game_id":"385",
+		"name":"Aesc the Savior",
+		"class":"saber",
+		"rarity":"5",
+		"maxcopy":5,
+		"stype":3,
+		"imgpath":"https://static.wikia.nocookie.net/fategrandorder/images/1/1a/S385A1Icon.webp",
 		"copies":0
 	}
 ]
