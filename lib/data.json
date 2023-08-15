@@ -1,5 +1,5 @@
 {
-	"version": "2.0.5",
+	"version": "2.8.2",
 	"data": [
 	{
 		"game_id":"1",
@@ -3779,6 +3779,76 @@
 		"maxcopy":5,
 		"stype":3,
 		"imgpath":"https://static.wikia.nocookie.net/fategrandorder/images/1/1a/S385A1Icon.webp",
+		"copies":0
+	},
+	{
+		"game_id":"386",
+		"name":"Artoria Caster (Berserker)",
+		"class":"berserker",
+		"rarity":"5",
+		"maxcopy":5,
+		"stype":3,
+		"imgpath":"https://static.wikia.nocookie.net/fategrandorder/images/2/22/S386A1Icon.webp",
+		"copies":0
+	},
+	{
+		"game_id":"387",
+		"name":"Suzuka Gozen (Summer Vacation)",
+		"class":"rider",
+		"rarity":"4",
+		"maxcopy":5,
+		"stype":3,
+		"imgpath":"https://static.wikia.nocookie.net/fategrandorder/images/a/a4/S387A1Icon.webp",
+		"copies":0
+	},
+	{
+		"game_id":"388",
+		"name":"Chloe von Einzbern (Avenger)",
+		"class":"avenger",
+		"rarity":"4",
+		"maxcopy":5,
+		"stype":3,
+		"imgpath":"https://static.wikia.nocookie.net/fategrandorder/images/a/a7/S388A1Icon.webp",
+		"copies":0
+	},
+	{
+		"game_id":"389",
+		"name":"Cnoc na Riabh Yaraan-doo",
+		"class":"foreigner",
+		"rarity":"4",
+		"maxcopy":5,
+		"stype":4,
+		"imgpath":"https://static.wikia.nocookie.net/fategrandorder/images/7/74/S389A1Icon.webp",
+		"copies":0
+	},
+	{
+		"game_id":"390",
+		"name":"Mélusine (Ruler)",
+		"class":"ruler",
+		"rarity":"5",
+		"maxcopy":5,
+		"stype":3,
+		"imgpath":"https://static.wikia.nocookie.net/fategrandorder/images/2/27/S390A1Icon.webp",
+		"copies":0
+	},
+	{
+		"game_id":"391",
+		"name":"UDK-Barghest",
+		"class":"archer",
+		"rarity":"4",
+		"maxcopy":5,
+		"stype":3,
+		"imgpath":"https://static.wikia.nocookie.net/fategrandorder/images/5/59/S391A1Icon.webp",
+		"copies":0
+	},
+	{
+		"game_id":"392",
+		"name":"Cait Cú Cerpriestess",
+		"class":"pretender",
+		"rarity":"4",
+		"maxcopy":5,
+		"stype":3,
+		"imgpath":"https://static.wikia.nocookie.net/fategrandorder/images/d/d5/S392A1Icon.webp",
 		"copies":0
 	}
 ]
