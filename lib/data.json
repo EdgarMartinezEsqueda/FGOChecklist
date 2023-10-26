@@ -1,5 +1,5 @@
 {
-	"version": "2.9.1",
+	"version": "2.10.0",
 	"data": [
 	{
 		"game_id":"1",
@@ -3859,6 +3859,26 @@
 		"maxcopy":5,
 		"stype":3,
 		"imgpath":"https://static.wikia.nocookie.net/fategrandorder/images/0/00/S393A1Icon.webp",
+		"copies":0
+	},
+	{
+		"game_id":"394",
+		"name":"Ptolemaios",
+		"class":"archer",
+		"rarity":"5",
+		"maxcopy":5,
+		"stype":3,
+		"imgpath":"https://static.wikia.nocookie.net/fategrandorder/images/3/36/S394A1Icon.webp",
+		"copies":0
+	},
+	{
+		"game_id":"395",
+		"name":"Sugitani Zenjūbō",
+		"class":"archer",
+		"rarity":"3",
+		"maxcopy":5,
+		"stype":0,
+		"imgpath":"https://static.wikia.nocookie.net/fategrandorder/images/0/01/S395A1Icon.webp",
 		"copies":0
 	}
 ]
